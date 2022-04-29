@@ -1,0 +1,6 @@
+# for big datasets
+*/data/
+
+# for jupyter notebook
+*/.ipynb_checkpoints/
+.ipynb_checkpoints/
